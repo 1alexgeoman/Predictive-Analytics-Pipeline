@@ -1,6 +1,6 @@
-# 📊 Data Science & Predictive Modeling (COMP1008)
+# 📊 Data Science & Predictive Modeling
 
-This project represents a comprehensive exploration of the data science lifecycle, conducted at the **University of Nottingham**. It demonstrates proficiency in transforming raw datasets into actionable insights through statistical analysis, exploratory data visualization, and machine learning.
+This project represents a comprehensive exploration of the data science lifecycle. It demonstrates proficiency in transforming raw datasets into actionable insights through statistical analysis, exploratory data visualization, and machine learning.
 
 ## 🚀 Project Overview
 
