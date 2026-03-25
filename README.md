@@ -11,7 +11,7 @@ The project is structured as an end-to-end analytical pipeline, focusing on thre
 * **Feature Engineering:** Implemented data normalization and categorical encoding to prepare raw data for statistical modeling.
 
 ### 2. Exploratory Data Analysis (EDA)
-* **Statistical Visualization:** Created sophisticated visualizations using **Matplotlib** and **Seaborn** to identify trends, correlations, and outliers.
+* **Statistical Visualization:** Created sophisticated visualizations using **Matplotlib** to identify trends, correlations, and outliers.
 * **Pattern Recognition:** Conducted univariate and multivariate analysis to understand underlying distributions and data relationships.
 
 ### 3. Predictive Machine Learning
@@ -21,7 +21,7 @@ The project is structured as an end-to-end analytical pipeline, focusing on thre
 ## 🛠️ Technical Stack
 
 * **Language:** Python
-* **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+* **Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn
 * **Environment:** Jupyter Notebooks
 
 ## 👨‍💻 Key Competencies Demonstrated
